@@ -1,2 +1,2 @@
-# generador-de-contrase-as
+# generador-de-contrasenas
 Es un generador de contraseñas desarrollado en python3 que basicamente genera una contraseña uniendo letras y numeros al asar
